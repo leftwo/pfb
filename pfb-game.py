@@ -68,7 +68,7 @@ def print_intro():
     secretly chooses a set of digits from the numbers 0 - 9.  You (the other
     player) try to guess what digits I have selected and in what order they
     are in.  For each digit in the set you guess, I give you a positional
-    awnser that indicates the following:
+    anwser that indicates the following:
     B:  This digit is not one of the digits I have selected.
     P:  This digit is one I have selected, but it's not in the right place.
     F:  This digit is one I have selected, and it's in the right place.
